@@ -16,4 +16,4 @@ Ejecutar el archivo principal:
 python main.py
 
 ## Autores
-Grupo de trabajo – UNAD
+Sharon Lorena Ayala Contreras
