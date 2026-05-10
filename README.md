@@ -17,3 +17,4 @@ python main.py
 
 ## Autores
 Sharon Lorena Ayala Contreras
+Andres Mauricio Lugo Solano
